@@ -4,6 +4,6 @@ public class Student {
 
     void display() {
         System.out.println("Student Name: " + name);
-        System.out.println("Age: " + age);
+        System.out.println("Age: " + age + ".");
     }
 }
